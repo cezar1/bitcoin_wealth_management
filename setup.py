@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='bitcoin_wealth_management',
-    version='0.21',
+    version='0.1',
     packages=find_packages(),
     install_requires=[
         'click',
